@@ -8,7 +8,7 @@ public class projeto1 {
         String[] produtosBiodegradaveis = {"cortiça", "madeira", "bambu", "canudo de papel"};
         String[] produtosNaoBiodegradaveis = {"pneu", "sacolinha", "latinha", "cabo usb", "canudo de plástico", "nylon", "canudo de plástico", "DVD"};
         boolean achouBiodegradavel = false;
-
+ 
         System.out.println("Lista de produtos: "); 
 
         for(short i = 0; i < produtos.length; i++) {
